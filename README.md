@@ -56,11 +56,11 @@ Me especializo en el análisis de procesos de negocio y el desarrollo de solucio
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMendezNicolas&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=visual_studio_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMendezNicolas&theme=visual_studio_dark" alt="GitHub Streak" />
 </p>
 
 ---
