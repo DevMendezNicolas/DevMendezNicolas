@@ -1,7 +1,7 @@
 # ¡Hola! Soy Nicolas Mendez 👋
 
 ### Analista de Sistemas & Desarrollador de Software
-Me apasiona diseñar arquitecturas de software robustas, optimizar procesos de negocio y construir aplicaciones escalables. Mi enfoque combina la lógica analítica de sistemas con un desarrollo de código limpio y estructurado.
+Me especializo en el análisis de procesos de negocio y el desarrollo de soluciones de software robustas. Combino metodologías ágiles con un diseño arquitectónico sólido para transformar requerimientos en código eficiente, escalable y centrado en el usuario.
 
 ---
 
@@ -10,37 +10,45 @@ Me apasiona diseñar arquitecturas de software robustas, optimizar procesos de n
 ### 💻 Desarrollo de Software
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📊 Análisis de Datos & Negocio
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![MVC Architecture](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge)
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-### ⚙️ Entornos & Herramientas
+### ⚙️ IDEs & Entornos
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-002B36?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge)
+
+### 👥 Gestión de Proyectos & Agilidad
+![SCRUM](https://img.shields.io/badge/Methodology-SCRUM-0052CC?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 <details>
-<summary>📂 <b>Sistema de Gestión Contable e Institucional</b></summary>
+<summary>📂 <b>Sistema de Inscripción a Finales</b></summary>
 <br>
 
-- **Descripción:** Aplicación de escritorio diseñada bajo el patrón de arquitectura **MVC (Modelo-Vista-Controlador)** para garantizar la separación de conceptos y la mantenibilidad del código. Gestiona flujos financieros complejos (Activo, Pasivo, Patrimonio Neto).
-- **Stack:** Java (JDK 17/21), Java Swing / JavaFX, SceneBuilder.
-- **Link al Repo:** `[Link a tu proyecto]`
+- **Descripción:** Solución orientada a la gestión académica que optimiza y automatiza el flujo de inscripción de alumnos a exámenes finales. El proyecto pone foco en la integridad de los datos, la validación de correlatividades y una experiencia de usuario fluida.
+- **Enfoque analítico:** Relevamiento de requerimientos institucionales, modelado de la base de datos y diseño lógico del sistema.
+- **Link al Repo:** `[Link a tu repositorio]`
 </details>
 
 <details>
-<summary>📂 <b>Dashboard de Data Analytics para Toma de Decisiones</b></summary>
+<summary>📂 <b>Recetario</b></summary>
 <br>
 
-- **Descripción:** Análisis y modelado de datos para transformar información bruta en paneles interactivos que optimizan la gestión operativa de una organización.
-- **Stack:** Power BI, SQL, Python.
-- **Link al Repo:** `[Link a tu proyecto]`
+- **Descripción:** Aplicación enfocada en la organización, almacenamiento y búsqueda inteligente de recetas. Permite una gestión dinámica de ingredientes, categorías y porciones mediante una interfaz intuitiva.
+- **Enfoque analítico:** Arquitectura limpia de software y diseño estructurado para garantizar la modularidad de las funciones de búsqueda y filtrado.
+- **Link al Repo:** `[Link a tu repositorio]`
 </details>
 
 ---
@@ -59,7 +67,7 @@ Me apasiona diseñar arquitecturas de software robustas, optimizar procesos de n
 
 ## 📫 Contactame
 
-¿Te interesa colaborar en un proyecto o charlar sobre arquitectura de software y análisis de datos? 
+¿Querés charlar sobre desarrollo de software, análisis de sistemas o metodologías ágiles? Podés encontrarme en:
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Email:** tu.email@email.com
+- **LinkedIn:** [Nicolás Méndez](https://www.linkedin.com/in/nicolás-méndez-dev15)
+- **Email:** [dev.mendez15@gmail.com](mailto:dev.mendez15@gmail.com)
